@@ -1,0 +1,4 @@
+{
+    "name": "my_cool_report",
+    "report_class": "ffrep.reports.MyCoolReport"
+}
